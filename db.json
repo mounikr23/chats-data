@@ -4,7 +4,7 @@
       "recepient": "Mark",
       "isLastMessageFromUser": false,
       "lastMessage": "Booked the tickets!"
-      "conversation":[
+      "conversation": [
         {
           "message": "Hi",
           "time": "11:35"
