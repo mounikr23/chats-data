@@ -1,41 +1,41 @@
 {
-  chats:[
+  "chats":[
     {
-      recepient: 'Mark',
-      isLastMessageFromUser: false,
-      lastMessage: 'Booked the tickets!'
-      conversation:[
+      "recepient": "Mark",
+      "isLastMessageFromUser": false,
+      "lastMessage": "Booked the tickets!"
+      "conversation":[
         {
-          message: 'Hi',
-          time: '11:35'
+          "message": "Hi",
+          "time": "11:35"
         },
         {
-          message: 'Hi!! How are you?',
-          time: '11:36',
-          isUserMessage: true
+          "message": "Hi!! How are you?",
+          "time": "11:36",
+          "isUserMessage": true
         },
         {
-          message: 'Good that you pinged me. Was just about to book tickets',
-          time: '11:36',
-          isUserMessage: true
+          "message": "Good that you pinged me. Was just about to book tickets",
+          "time": "11:36",
+          "isUserMessage": true
         },
         {
-          message: 'Which movie?',
-          time: '11:37'
+          "message": "Which movie?",
+          "time": "11:37"
         },
         {
-          message: 'Avengers',
-          time: '11:39',
-          isUserMessage: true
+          "message": "End game",
+          "time": "11:39",
+          "isUserMessage": true
         },
         {
-          message: 'I was about to book tickets for the same. I'll join you for the movie',
-          time: '11:39'
+          "message": "I was about to book tickets for the same. I'll join you for the movie",
+          "time": "11:39"
         },
         {
-          message: 'Booked the tickets',
-          time: '11:40',
-          isUserMessage: true
+          "message": "Booked the tickets",
+          "time": "11:40",
+          "isUserMessage": true
         },
       ]
     }
