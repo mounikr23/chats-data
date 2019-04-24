@@ -2,7 +2,7 @@
   "chats":[
     {
       "recepient": "Mark",
-      "isLastMessageFromUser": false,
+      "isLastMessageFromUser": true,
       "lastMessage": "Booked the tickets!",
       "conversation": [
         {
