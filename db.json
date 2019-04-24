@@ -3,7 +3,10 @@
     {
       "recepient": "Mark",
       "isLastMessageFromUser": true,
-      "lastMessage": "Booked the tickets!",
+      "lastMessage": {
+        "message": "Booked the tickets!",
+        "time": "11:40"
+      },
       "conversation": [
         {
           "message": "Hi",
