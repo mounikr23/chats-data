@@ -176,8 +176,7 @@
       "conversation": [
         {
           "message": "Good evening",
-          "time": "6:07",
-          "isUserMessage": true
+          "time": "6:07"
         },
         {
           "message": "Good evening. Where are you?",
@@ -186,8 +185,7 @@
         },
         {
           "message": "I am going to a doctor",
-          "time": "6:08",
-          "isUserMessage": true
+          "time": "6:08"
         },
         {
           "message": "I don't feel well these days.",
