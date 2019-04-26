@@ -90,6 +90,11 @@
           "message": "Not a full plan. But i am actually planning to watch a few world cup matches",
           "time": "13:40",
           "isUserMessage": true
+        },
+        {
+          "message": "Can you help me come up with a plan for this trip?",
+          "time": "13:40",
+          "isUserMessage": true
         }
       ]
     }
