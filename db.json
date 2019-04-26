@@ -110,6 +110,61 @@
           "time": "13:41"
         }
       ]
+    },
+    {
+      "recepient": "Joe Flynn",
+      "isLastMessageFromUser": false,
+      "lastMessage": {
+        "message": "Will be there in 5",
+        "time": "8:11"
+      },
+      "conversation": [
+        {
+          "message": "Where are u?",
+          "time": "8:07",
+          "isUserMessage": true
+        },
+        {
+          "message": "We have a meeting scheduled in next 15 mins",
+          "time": "8:07",
+          "isUserMessage": true
+        },
+        {
+          "message": "On my way to the office",
+          "time": "8:08"
+        },
+        {
+          "message": "Wat! When was this scheduled and wat is this meeting abt?",
+          "time": "8:08"
+        },
+        {
+          "message": "Just got a call from Tim.",
+          "time": "8:08",
+          "isUserMessage": true
+        },
+        {
+          "message": "About some priority bug which needs to be fixed ASAP",
+          "time": "8:09",
+          "isUserMessage": true
+        },
+        {
+          "message": "Sounds pretty serious",
+          "time": "8:09"
+        },
+        {
+          "message": "Are we going to be in a war room for this?",
+          "time": "8:10"
+        },
+        {
+          "message": "Well! Looks like it!",
+          "time": "8:10",
+          "isUserMessage": true
+        },
+        {
+          "message": "Will be in office in next 10 mins",
+          "time": "8:11"
+        }
+      ]
     }
   ]
 }
