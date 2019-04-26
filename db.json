@@ -85,6 +85,11 @@
         {
           "message": "Do u have a plan ready?",
           "time": "13:40"
+        },
+        {
+          "message": "Not a full plan. But i am actually planning to watch a few world cup matches",
+          "time": "13:40",
+          "isUserMessage": true
         }
       ]
     }
