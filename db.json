@@ -81,6 +81,25 @@
           "message": "Awesome! I am planning a trip to Europe as well",
           "time": "13:39",
           "isUserMessage": true
+        },
+        ,
+        {
+          "message": "Do u have a plan ready?",
+          "time": "13:40"
+        },
+        {
+          "message": "Not a full plan. But i am actually planning to watch a few world cup matches",
+          "time": "13:40",
+          "isUserMessage": true
+        },
+        {
+          "message": "Can you help me come up with a plan for this trip?",
+          "time": "13:40",
+          "isUserMessage": true
+        },
+        {
+          "message": "Sure man! When do u want to catch up for this?",
+          "time": "13:41",
         }
       ]
     }
