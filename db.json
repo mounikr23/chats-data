@@ -11,6 +11,7 @@
         {
           "message": "Hi",
           "time": "11:35"
+          ""
         },
         {
           "message": "Hi!! How are you?",
@@ -44,43 +45,70 @@
     },
     {
       "recepient": "Ryan Reynolds",
-      "isLastMessageFromUser": true,
+      "isLastMessageFromUser": false,
       "lastMessage": {
-        "message": "Booked the tickets!",
-        "time": "11:40"
+        "message": "Cool!",
+        "time": "13:41"
       },
       "conversation": [
         {
-          "message": "Hi",
-          "time": "11:35"
+          "message": "Howdy!!",
+          "time": "13:27"
         },
         {
-          "message": "Hi!! How are you?",
-          "time": "11:36",
+          "message": "Hola!",
+          "time": "13:37",
           "isUserMessage": true
         },
         {
-          "message": "Good that you pinged me. Was just about to book tickets",
-          "time": "11:36",
+          "message": "Where have u been? It's been a long time",
+          "time": "13:37",
           "isUserMessage": true
         },
         {
-          "message": "Which movie?",
-          "time": "11:37"
+          "message": "Was on vacation for couple of months. Came back a couple days ago",
+          "time": "13:38"
         },
         {
-          "message": "End game",
-          "time": "11:39",
+          "message": "Where did u go for a vacation?",
+          "time": "13:38",
           "isUserMessage": true
         },
         {
-          "message": "I was about to book tickets for the same. I'll join you for the movie",
-          "time": "11:39"
+          "message": "Europe man! A lovely place never wanted the vacation to be over",
+          "time": "13:39"
         },
         {
-          "message": "Booked the tickets",
-          "time": "11:40",
+          "message": "Awesome! I am planning a trip to Europe as well",
+          "time": "13:39",
           "isUserMessage": true
+        },
+        {
+          "message": "Do u have a plan ready?",
+          "time": "13:40"
+        },
+        {
+          "message": "Not a full plan. But i am actually planning to watch a few world cup matches",
+          "time": "13:40",
+          "isUserMessage": true
+        },
+        {
+          "message": "Can you help me come up with a plan for this trip?",
+          "time": "13:40",
+          "isUserMessage": true
+        },
+        {
+          "message": "Sure man! When do u want to catch up for this?",
+          "time": "13:41",
+        },
+        {
+          "message": "Wat abt today evng around 7?",
+          "time": "13:41",
+          "isUserMessage": true
+        },
+        {
+          "message": "Cool!",
+          "time": "13:41"
         }
       ]
     }
